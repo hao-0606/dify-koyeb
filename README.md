@@ -2,7 +2,7 @@
 
 # Vercel 設定
 
-<div>
+</div>
 
 ## ▶️ 請問 `vercel.json` 裡的 `routes` 是什麼意思？
 
